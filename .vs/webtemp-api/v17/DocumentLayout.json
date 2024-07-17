@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|c:\\users\\adm.pc10682.000\\desktop\\code\\webtemp-api\\models\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|solutionrelative:models\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|c:\\users\\adm.pc10682.000\\desktop\\code\\webtemp-api\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|c:\\users\\adm.pc10682.000\\desktop\\code\\webtemp-api\\migrations\\schoolcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|solutionrelative:migrations\\schoolcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|c:\\users\\adm.pc10682.000\\desktop\\code\\webtemp-api\\migrations\\20240717070447_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|solutionrelative:migrations\\20240717070447_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|c:\\users\\adm.pc10682.000\\desktop\\code\\webtemp-api\\models\\enrollmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|solutionrelative:models\\enrollmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|c:\\users\\adm.pc10682.000\\desktop\\code\\webtemp-api\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|solutionrelative:models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|c:\\users\\adm.pc10682.000\\desktop\\code\\webtemp-api\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|solutionrelative:models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|c:\\users\\adm.pc10682.000\\desktop\\code\\webtemp-api\\models\\stuinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|solutionrelative:models\\stuinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|c:\\users\\adm.pc10682.000\\desktop\\code\\webtemp-api\\models\\stuinfoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|solutionrelative:models\\stuinfoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|c:\\users\\adm.pc10682.000\\desktop\\code\\webtemp-api\\controllers\\stuinfoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|solutionrelative:controllers\\stuinfoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|c:\\users\\adm.pc10682.000\\desktop\\code\\webtemp-api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|c:\\users\\adm.pc10682.000\\desktop\\code\\webtemp-api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|c:\\users\\adm.pc10682.000\\desktop\\code\\webtemp-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|c:\\users\\adm.pc10682.000\\desktop\\code\\webtemp-api\\controllers\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|solutionrelative:controllers\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|c:\\users\\adm.pc10682.000\\desktop\\code\\webtemp-api\\controllers\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|solutionrelative:controllers\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|c:\\users\\adm.pc10682.000\\desktop\\code\\webtemp-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|c:\\users\\adm.pc10682.000\\desktop\\code\\webtemp-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70A29A61-0D34-485D-B491-73FAA9395776}|webtemp-api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Migrations\\SchoolContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\SchoolContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Migrations\\SchoolContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\SchoolContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:40:12.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240717070447_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Migrations\\20240717070447_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240717070447_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Migrations\\20240717070447_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240717070447_InitialCreate.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAIwEgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:39:25.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Models\\CourseConfiguration.cs",
+              "RelativeDocumentMoniker": "Models\\CourseConfiguration.cs",
+              "ToolTip": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Models\\CourseConfiguration.cs",
+              "RelativeToolTip": "Models\\CourseConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:30:08.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnrollmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Models\\EnrollmentConfiguration.cs",
+              "RelativeDocumentMoniker": "Models\\EnrollmentConfiguration.cs",
+              "ToolTip": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Models\\EnrollmentConfiguration.cs",
+              "RelativeToolTip": "Models\\EnrollmentConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:29:17.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StuInfoConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Models\\StuInfoConfiguration.cs",
+              "RelativeDocumentMoniker": "Models\\StuInfoConfiguration.cs",
+              "ToolTip": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Models\\StuInfoConfiguration.cs",
+              "RelativeToolTip": "Models\\StuInfoConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:28:37.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StuInfo.cs",
+              "DocumentMoniker": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Models\\StuInfo.cs",
+              "RelativeDocumentMoniker": "Models\\StuInfo.cs",
+              "ToolTip": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Models\\StuInfo.cs",
+              "RelativeToolTip": "Models\\StuInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T01:35:04.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Models\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Models\\SchoolContext.cs",
+              "RelativeToolTip": "Models\\SchoolContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T01:35:29.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Controllers\\Interface.cs",
+              "RelativeDocumentMoniker": "Controllers\\Interface.cs",
+              "ToolTip": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Controllers\\Interface.cs",
+              "RelativeToolTip": "Controllers\\Interface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T02:12:38.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StuInfoesController.cs",
+              "DocumentMoniker": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Controllers\\StuInfoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StuInfoesController.cs",
+              "ToolTip": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Controllers\\StuInfoesController.cs",
+              "RelativeToolTip": "Controllers\\StuInfoesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T01:56:04.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T05:19:41.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Add.cs",
+              "DocumentMoniker": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Controllers\\Add.cs",
+              "RelativeDocumentMoniker": "Controllers\\Add.cs",
+              "ToolTip": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Controllers\\Add.cs",
+              "RelativeToolTip": "Controllers\\Add.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T02:20:30.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T00:24:53.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T00:27:31.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Models\\Enrollment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T05:31:24.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T05:32:45.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T01:39:22.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\adm.PC10682.000\\Desktop\\code\\webtemp-api\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T00:25:00.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

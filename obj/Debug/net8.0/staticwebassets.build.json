@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F2YbXMysMMYajMG8fTCaJxCAzhrc7H/zyQNCKPhxGHg=",
+  "Source": "webtemp-api",
+  "BasePath": "_content/webtemp-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

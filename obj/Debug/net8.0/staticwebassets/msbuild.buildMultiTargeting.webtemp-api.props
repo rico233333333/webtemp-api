@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\webtemp-api.props" />
+</Project>
